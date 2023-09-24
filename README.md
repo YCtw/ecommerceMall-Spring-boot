@@ -18,6 +18,8 @@ Few future improvements and unfinished tasks:
 - Finish table "orderdetail".
 - Add @Transactional for multiple database modifications.
 - Add SQL injection prevention.
+  
+<br>
 
 Reference:
 https://www.youtube.com/watch?v=bb7ms3hN2uw&t=1433s
