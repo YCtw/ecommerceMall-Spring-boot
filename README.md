@@ -13,8 +13,11 @@ The simple ecommerce mall website using Vue.js and Java Spring boot.
   
 <br>
 
-Few future improvements and unfinished tasks.
+Few future improvements and unfinished tasks:
 - Add login mechanism, since now everyone can add new items, and don't have to login before you place the order. 
 - Finish table "orderdetail".
 - Add @Transactional for multiple database modifications.
 - Add SQL injection prevention.
+
+Reference:
+https://www.youtube.com/watch?v=bb7ms3hN2uw&t=1433s
