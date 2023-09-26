@@ -20,6 +20,3 @@ Few future improvements and unfinished tasks:
 - Add SQL injection prevention.
   
 <br>
-
-Reference:
-https://www.youtube.com/watch?v=bb7ms3hN2uw&t=1433s
